@@ -4,3 +4,4 @@
 2025-01-01 add comments [4]
 2025-01-01 add integration tests [5]
 2025-01-01 better error handling [6]
+2025-01-01 patch memory leak [7]
