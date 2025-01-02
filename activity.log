@@ -38,3 +38,4 @@
 2025-01-02 update schema migration [14]
 2025-01-02 update gitignore [15]
 2025-01-02 fix edge case [16]
+2025-01-02 better error handling [17]
