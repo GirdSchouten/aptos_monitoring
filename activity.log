@@ -56,3 +56,4 @@
 2025-01-03 add example file [2]
 2025-01-03 fix config bug [3]
 2025-01-03 improve logging format [4]
+2025-01-03 add integration tests [5]
