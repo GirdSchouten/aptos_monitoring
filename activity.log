@@ -71,3 +71,4 @@
 2025-01-03 fix docker build [17]
 2025-01-03 change configuration [18]
 2025-01-03 better error handling [19]
+2025-01-03 restructure project [20]
