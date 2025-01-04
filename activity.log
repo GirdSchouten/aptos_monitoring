@@ -118,3 +118,4 @@
 2025-01-04 update API keys [30]
 2025-01-04 update schema migration [31]
 2025-01-04 stabilize build [32]
+2025-01-04 better error handling [33]
