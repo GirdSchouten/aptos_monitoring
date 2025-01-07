@@ -214,3 +214,4 @@
 2025-01-07 fix encoding issue [22]
 2025-01-07 patch memory leak [23]
 2025-01-07 simplify logic [24]
+2025-01-07 fix CI errors [25]
