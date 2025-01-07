@@ -206,3 +206,4 @@
 2025-01-07 fix crash issue [14]
 2025-01-07 improve logging format [15]
 2025-01-07 fix timezone issue [16]
+2025-01-07 add helper function [17]
