@@ -247,3 +247,4 @@
 2025-01-08 improve logging format [16]
 2025-01-08 update schema migration [17]
 2025-01-08 tweak configs [18]
+2025-01-08 add helper function [19]
