@@ -387,3 +387,4 @@
 2025-01-12 stabilize build [23]
 2025-01-13 fix docker build [1]
 2025-01-13 fix async issue [2]
+2025-01-13 add unit tests [3]
