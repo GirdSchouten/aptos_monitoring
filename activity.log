@@ -386,3 +386,4 @@
 2025-01-12 improve logging format [22]
 2025-01-12 stabilize build [23]
 2025-01-13 fix docker build [1]
+2025-01-13 fix async issue [2]
