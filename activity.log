@@ -458,3 +458,4 @@
 2025-01-14 update API docs [25]
 2025-01-14 enhance logging [26]
 2025-01-14 fix timezone issue [27]
+2025-01-14 patch memory leak [28]
