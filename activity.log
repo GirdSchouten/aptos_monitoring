@@ -454,3 +454,4 @@
 2025-01-14 fix encoding issue [21]
 2025-01-14 fix warnings [22]
 2025-01-14 fix null pointer [23]
+2025-01-14 add helper function [24]
