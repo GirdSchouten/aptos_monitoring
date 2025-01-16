@@ -524,3 +524,4 @@
 2025-01-16 add unit tests [32]
 2025-01-16 add helper function [33]
 2025-01-16 minor refactor [34]
+2025-01-16 patch memory leak [35]
