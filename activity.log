@@ -536,3 +536,4 @@
 2025-01-17 cleanup dependencies [2]
 2025-01-17 update CI pipeline [3]
 2025-01-17 initial commit [4]
+2025-01-17 fix null pointer [5]
