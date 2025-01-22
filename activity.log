@@ -721,3 +721,4 @@
 2025-01-22 update database schema [10]
 2025-01-22 fix bug [11]
 2025-01-22 fix config bug [12]
+2025-01-22 add fallback [13]
