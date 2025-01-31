@@ -1017,3 +1017,4 @@
 2025-01-31 update API endpoints [37]
 2025-01-31 fix async issue [38]
 2025-01-31 add integration tests [39]
+2025-01-31 fix crash issue [40]
