@@ -1172,3 +1172,4 @@
 2025-02-05 add integration tests [18]
 2025-02-05 better error handling [19]
 2025-02-05 add tests [20]
+2025-02-05 fix null pointer [21]
