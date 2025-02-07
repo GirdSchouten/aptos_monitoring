@@ -1217,3 +1217,4 @@
 2025-02-06 update LICENSE [21]
 2025-02-07 patch memory leak [1]
 2025-02-07 improve performance [2]
+2025-02-07 fix compatibility [3]
