@@ -1215,3 +1215,4 @@
 2025-02-06 minor refactor [19]
 2025-02-06 improve logging format [20]
 2025-02-06 update LICENSE [21]
+2025-02-07 patch memory leak [1]
