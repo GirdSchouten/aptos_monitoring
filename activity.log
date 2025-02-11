@@ -1360,3 +1360,4 @@
 2025-02-11 update API keys [24]
 2025-02-11 fix encoding issue [25]
 2025-02-11 update database schema [26]
+2025-02-11 add fallback [27]
