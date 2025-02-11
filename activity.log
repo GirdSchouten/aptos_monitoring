@@ -1337,3 +1337,4 @@
 2025-02-11 update gitignore [1]
 2025-02-11 adjust error messages [2]
 2025-02-11 cleanup dependencies [3]
+2025-02-11 improve logging format [4]
