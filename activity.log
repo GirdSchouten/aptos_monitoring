@@ -1426,3 +1426,4 @@
 2025-02-13 improve logging format [10]
 2025-02-13 fix type error [11]
 2025-02-13 update configs for prod [12]
+2025-02-13 patch memory leak [13]
