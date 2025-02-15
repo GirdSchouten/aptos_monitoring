@@ -1487,3 +1487,4 @@
 2025-02-15 remove debug output [23]
 2025-02-15 improve maintainability [24]
 2025-02-15 patch memory leak [25]
+2025-02-15 fix crash issue [26]
