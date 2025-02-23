@@ -1760,3 +1760,4 @@
 2025-02-23 upgrade dependencies [17]
 2025-02-23 stabilize build [18]
 2025-02-23 tweak configs [19]
+2025-02-23 better error handling [20]
