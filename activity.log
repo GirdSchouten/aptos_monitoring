@@ -2191,3 +2191,4 @@
 2025-03-07 better error handling [43]
 2025-03-08 simplify logic [1]
 2025-03-08 update docs with examples [2]
+2025-03-08 add integration tests [3]
