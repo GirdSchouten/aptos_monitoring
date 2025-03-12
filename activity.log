@@ -2300,3 +2300,4 @@
 2025-03-12 upgrade dependencies [2]
 2025-03-12 remove unused code [3]
 2025-03-12 fix config bug [4]
+2025-03-12 fix crash issue [5]
