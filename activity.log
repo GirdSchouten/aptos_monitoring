@@ -2384,3 +2384,4 @@
 2025-03-14 upgrade dependencies [19]
 2025-03-14 stabilize build [20]
 2025-03-14 rollback changes [21]
+2025-03-14 improve logging format [22]
