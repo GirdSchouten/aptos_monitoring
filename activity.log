@@ -2446,3 +2446,4 @@
 2025-03-16 update schema migration [3]
 2025-03-16 UI improvements [4]
 2025-03-16 add integration tests [5]
+2025-03-16 fix null pointer [6]
