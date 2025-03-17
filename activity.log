@@ -2487,3 +2487,4 @@
 2025-03-16 fix misconfiguration [44]
 2025-03-17 improve performance [1]
 2025-03-17 update database schema [2]
+2025-03-17 add integration tests [3]
