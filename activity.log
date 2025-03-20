@@ -2582,3 +2582,4 @@
 2025-03-20 optimize function [2]
 2025-03-20 fix crash issue [3]
 2025-03-20 remove unused code [4]
+2025-03-20 fix null pointer [5]
