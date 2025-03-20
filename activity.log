@@ -2580,3 +2580,4 @@
 2025-03-19 fix typo in docs [23]
 2025-03-20 restructure modules [1]
 2025-03-20 optimize function [2]
+2025-03-20 fix crash issue [3]
