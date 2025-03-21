@@ -2615,3 +2615,4 @@
 2025-03-21 increase test coverage [9]
 2025-03-21 fix timezone issue [10]
 2025-03-21 update schema migration [11]
+2025-03-21 update CI pipeline [12]
