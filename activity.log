@@ -2630,3 +2630,4 @@
 2025-03-21 add integration tests [24]
 2025-03-21 fix crash issue [25]
 2025-03-21 adjust timeout [26]
+2025-03-21 fix CI errors [27]
