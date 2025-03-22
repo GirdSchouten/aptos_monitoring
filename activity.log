@@ -2656,3 +2656,4 @@
 2025-03-21 fix encoding issue [50]
 2025-03-22 update LICENSE [1]
 2025-03-22 update headers [2]
+2025-03-22 fix null pointer [3]
