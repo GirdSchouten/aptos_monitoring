@@ -2842,3 +2842,4 @@
 2025-03-26 update database schema [43]
 2025-03-26 update constants [44]
 2025-03-27 adjust timeout [1]
+2025-03-27 better error handling [2]
