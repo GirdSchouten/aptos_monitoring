@@ -2938,3 +2938,4 @@
 2025-03-29 improve caching [27]
 2025-03-29 remove deprecated code [28]
 2025-03-29 update database schema [29]
+2025-03-29 update configs for prod [30]
