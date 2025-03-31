@@ -3019,3 +3019,4 @@
 2025-03-31 small refactor [9]
 2025-03-31 update schema migration [10]
 2025-03-31 improve logging format [11]
+2025-03-31 add integration tests [12]
