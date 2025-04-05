@@ -3185,3 +3185,4 @@
 2025-04-04 better error handling [48]
 2025-04-04 hotfix applied [49]
 2025-04-05 enhance logging [1]
+2025-04-05 fix null pointer [2]
