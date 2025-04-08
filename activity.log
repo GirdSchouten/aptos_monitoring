@@ -3296,3 +3296,4 @@
 2025-04-07 reformat code [40]
 2025-04-08 fix timezone issue [1]
 2025-04-08 update configs for prod [2]
+2025-04-08 update gitignore [3]
