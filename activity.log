@@ -3643,3 +3643,4 @@
 2025-04-18 update schema migration [2]
 2025-04-18 improve caching [3]
 2025-04-18 update docs with examples [4]
+2025-04-18 add integration tests [5]
