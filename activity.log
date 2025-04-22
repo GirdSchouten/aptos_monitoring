@@ -3765,3 +3765,4 @@
 2025-04-22 rollback changes [3]
 2025-04-22 small refactor [4]
 2025-04-22 fix docker build [5]
+2025-04-22 add helper function [6]
