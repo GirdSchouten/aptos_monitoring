@@ -4699,3 +4699,4 @@
 2025-05-19 fix encoding issue [34]
 2025-05-19 tweak configs [35]
 2025-05-19 better error handling [36]
+2025-05-19 add fallback [37]
