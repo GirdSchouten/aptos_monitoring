@@ -4813,3 +4813,4 @@
 2025-05-24 remove deprecated code [2]
 2025-05-24 update dependencies [3]
 2025-05-24 fix docker build [4]
+2025-05-24 update gitignore [5]
