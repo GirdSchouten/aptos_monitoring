@@ -4876,3 +4876,4 @@
 2025-05-25 fix null pointer [21]
 2025-05-25 remove debug output [22]
 2025-05-25 add comments [23]
+2025-05-25 simplify logic [24]
