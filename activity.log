@@ -4970,3 +4970,4 @@
 2025-05-28 fix config bug [15]
 2025-05-28 update build script [16]
 2025-05-28 update CI pipeline [17]
+2025-05-28 simplify logic [18]
