@@ -5127,3 +5127,4 @@
 2025-06-01 improve security [4]
 2025-06-01 fix typo in docs [5]
 2025-06-01 fix merge conflicts [6]
+2025-06-01 patch memory leak [7]
