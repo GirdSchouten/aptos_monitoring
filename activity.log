@@ -5148,3 +5148,4 @@
 2025-06-02 improve caching [2]
 2025-06-02 remove deprecated code [3]
 2025-06-02 style improvements [4]
+2025-06-02 fix null pointer [5]
