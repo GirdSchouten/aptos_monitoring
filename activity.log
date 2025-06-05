@@ -5264,3 +5264,4 @@
 2025-06-05 add fallback [24]
 2025-06-05 update version [25]
 2025-06-05 update linter rules [26]
+2025-06-05 better error handling [27]
