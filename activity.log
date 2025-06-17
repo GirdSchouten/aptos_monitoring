@@ -5661,3 +5661,4 @@
 2025-06-17 update build script [25]
 2025-06-17 update CI pipeline [26]
 2025-06-17 update dependencies [27]
+2025-06-17 better error handling [28]
