@@ -5764,3 +5764,4 @@
 2025-06-20 fix bug [33]
 2025-06-21 improve logging format [1]
 2025-06-21 fix bug [2]
+2025-06-21 fix encoding issue [3]
