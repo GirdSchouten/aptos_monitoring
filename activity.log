@@ -5971,3 +5971,4 @@
 2025-06-25 remove deprecated code [44]
 2025-06-25 update schema migration [45]
 2025-06-25 fix encoding issue [46]
+2025-06-25 update database schema [47]
