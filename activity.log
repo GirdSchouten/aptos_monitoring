@@ -6038,3 +6038,4 @@
 2025-06-28 add fallback [11]
 2025-06-28 optimize function [12]
 2025-06-28 fix encoding issue [13]
+2025-06-28 reduce complexity [14]
