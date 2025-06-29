@@ -6097,3 +6097,4 @@
 2025-06-29 add fallback [29]
 2025-06-29 add integration tests [30]
 2025-06-29 update schema migration [31]
+2025-06-29 fix edge case [32]
