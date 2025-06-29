@@ -6072,3 +6072,4 @@
 2025-06-29 upgrade dependencies [4]
 2025-06-29 update database schema [5]
 2025-06-29 update scripts [6]
+2025-06-29 fix encoding issue [7]
