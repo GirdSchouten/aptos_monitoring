@@ -6124,3 +6124,4 @@
 2025-06-30 update configs [8]
 2025-06-30 patch memory leak [9]
 2025-06-30 fix CI errors [10]
+2025-06-30 add integration tests [11]
