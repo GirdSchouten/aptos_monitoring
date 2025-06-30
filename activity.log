@@ -6125,3 +6125,4 @@
 2025-06-30 patch memory leak [9]
 2025-06-30 fix CI errors [10]
 2025-06-30 add integration tests [11]
+2025-06-30 simplify logic [12]
