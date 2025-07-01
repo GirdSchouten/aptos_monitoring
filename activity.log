@@ -6165,3 +6165,4 @@
 2025-07-01 improve maintainability [8]
 2025-07-01 fix encoding issue [9]
 2025-07-01 better error handling [10]
+2025-07-01 fix null pointer [11]
