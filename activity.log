@@ -6347,3 +6347,4 @@
 2025-07-05 update configs for prod [33]
 2025-07-05 restructure project [34]
 2025-07-05 update LICENSE [35]
+2025-07-05 fix docker build [36]
