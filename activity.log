@@ -6351,3 +6351,4 @@
 2025-07-05 fix typo in docs [37]
 2025-07-06 update configs [1]
 2025-07-06 initial commit [2]
+2025-07-06 fix null pointer [3]
