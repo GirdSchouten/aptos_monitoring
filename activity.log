@@ -6524,3 +6524,4 @@
 2025-07-11 fix misconfiguration [13]
 2025-07-11 fix permission issue [14]
 2025-07-11 better error handling [15]
+2025-07-11 fix null pointer [16]
