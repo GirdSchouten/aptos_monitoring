@@ -6567,3 +6567,4 @@
 2025-07-12 upgrade dependencies [14]
 2025-07-12 update docs with examples [15]
 2025-07-12 fix edge case [16]
+2025-07-12 improve caching [17]
