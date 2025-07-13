@@ -6597,3 +6597,4 @@
 2025-07-13 restructure modules [22]
 2025-07-13 update schema migration [23]
 2025-07-13 update configs [24]
+2025-07-13 fix encoding issue [25]
