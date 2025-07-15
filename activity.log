@@ -6654,3 +6654,4 @@
 2025-07-15 improve logging format [1]
 2025-07-15 experimental changes [2]
 2025-07-15 fix encoding issue [3]
+2025-07-15 better error handling [4]
