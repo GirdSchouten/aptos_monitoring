@@ -6656,3 +6656,4 @@
 2025-07-15 fix encoding issue [3]
 2025-07-15 better error handling [4]
 2025-07-15 restructure project [5]
+2025-07-15 add fallback [6]
