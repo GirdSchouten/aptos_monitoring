@@ -6749,3 +6749,4 @@
 2025-07-17 fix timezone issue [16]
 2025-07-17 update database schema [17]
 2025-07-17 reduce complexity [18]
+2025-07-17 fix null pointer [19]
