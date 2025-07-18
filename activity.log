@@ -6824,3 +6824,4 @@
 2025-07-18 add integration tests [44]
 2025-07-18 update linter rules [45]
 2025-07-18 update CI pipeline [46]
+2025-07-18 better error handling [47]
