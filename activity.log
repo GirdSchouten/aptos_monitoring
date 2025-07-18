@@ -6791,3 +6791,4 @@
 2025-07-18 fix docker build [11]
 2025-07-18 update metadata [12]
 2025-07-18 add tests [13]
+2025-07-18 add helper function [14]
