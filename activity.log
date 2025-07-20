@@ -6857,3 +6857,4 @@
 2025-07-20 improve logging format [8]
 2025-07-20 add integration tests [9]
 2025-07-20 fix bug [10]
+2025-07-20 remove deprecated code [11]
