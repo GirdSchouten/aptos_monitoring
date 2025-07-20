@@ -6850,3 +6850,4 @@
 2025-07-20 fix misconfiguration [1]
 2025-07-20 update docs with examples [2]
 2025-07-20 update API endpoints [3]
+2025-07-20 better error handling [4]
