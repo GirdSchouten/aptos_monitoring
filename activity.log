@@ -6855,3 +6855,4 @@
 2025-07-20 improve performance [6]
 2025-07-20 fix CI errors [7]
 2025-07-20 improve logging format [8]
+2025-07-20 add integration tests [9]
