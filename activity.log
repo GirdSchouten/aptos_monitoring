@@ -6903,3 +6903,4 @@
 2025-07-21 update constants [20]
 2025-07-21 update schema migration [21]
 2025-07-21 fix config bug [22]
+2025-07-21 simplify logic [23]
