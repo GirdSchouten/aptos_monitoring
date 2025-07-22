@@ -6948,3 +6948,4 @@
 2025-07-22 add unit tests [15]
 2025-07-22 reformat code [16]
 2025-07-22 fix null pointer [17]
+2025-07-22 improve logging format [18]
