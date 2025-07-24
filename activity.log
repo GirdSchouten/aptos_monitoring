@@ -7012,3 +7012,4 @@
 2025-07-24 update database schema [29]
 2025-07-24 fix compatibility [30]
 2025-07-24 temporary fix [31]
+2025-07-24 patch memory leak [32]
