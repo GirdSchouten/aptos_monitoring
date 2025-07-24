@@ -7009,3 +7009,4 @@
 2025-07-24 fix misconfiguration [26]
 2025-07-24 update configs for prod [27]
 2025-07-24 fix null pointer [28]
+2025-07-24 update database schema [29]
