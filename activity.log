@@ -7255,3 +7255,4 @@
 2025-07-31 enhance logging [11]
 2025-07-31 fix null pointer [12]
 2025-07-31 restructure modules [13]
+2025-07-31 fix crash issue [14]
