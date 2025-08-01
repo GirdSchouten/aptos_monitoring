@@ -7276,3 +7276,4 @@
 2025-08-01 remove unused import [4]
 2025-08-01 improve logging format [5]
 2025-08-01 fix config bug [6]
+2025-08-01 fix encoding issue [7]
