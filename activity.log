@@ -7464,3 +7464,4 @@
 2025-08-06 update schema migration [16]
 2025-08-06 add tests [17]
 2025-08-06 fix build error [18]
+2025-08-06 simplify logic [19]
