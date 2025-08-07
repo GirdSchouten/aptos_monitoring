@@ -7499,3 +7499,4 @@
 2025-08-07 fix async issue [1]
 2025-08-07 update CI pipeline [2]
 2025-08-07 cleanup dependencies [3]
+2025-08-07 clean project structure [4]
