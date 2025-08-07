@@ -7506,3 +7506,4 @@
 2025-08-07 fix null pointer [8]
 2025-08-07 temporary fix [9]
 2025-08-07 fix misconfiguration [10]
+2025-08-07 add integration tests [11]
