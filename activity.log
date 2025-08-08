@@ -7559,3 +7559,4 @@
 2025-08-08 fix null pointer [23]
 2025-08-08 rollback changes [24]
 2025-08-08 update API endpoints [25]
+2025-08-08 update build script [26]
