@@ -7582,3 +7582,4 @@
 2025-08-09 fix warnings [12]
 2025-08-09 adjust validation rules [13]
 2025-08-09 update constants [14]
+2025-08-09 better error handling [15]
