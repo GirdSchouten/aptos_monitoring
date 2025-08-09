@@ -7576,3 +7576,4 @@
 2025-08-09 add helper function [6]
 2025-08-09 add logging [7]
 2025-08-09 add fallback [8]
+2025-08-09 better error handling [9]
