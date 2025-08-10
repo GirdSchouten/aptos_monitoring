@@ -7627,3 +7627,4 @@
 2025-08-10 style improvements [23]
 2025-08-10 improve caching [24]
 2025-08-10 change configuration [25]
+2025-08-10 fix null pointer [26]
