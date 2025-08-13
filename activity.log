@@ -7712,3 +7712,4 @@
 2025-08-13 add unit tests [12]
 2025-08-13 adjust validation rules [13]
 2025-08-13 update schema migration [14]
+2025-08-13 better error handling [15]
