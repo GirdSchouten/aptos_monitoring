@@ -7714,3 +7714,4 @@
 2025-08-13 update schema migration [14]
 2025-08-13 better error handling [15]
 2025-08-13 remove unused import [16]
+2025-08-13 adjust validation rules [17]
