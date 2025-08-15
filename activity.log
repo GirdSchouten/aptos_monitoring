@@ -7797,3 +7797,4 @@
 2025-08-15 update API endpoints [15]
 2025-08-15 fix docker build [16]
 2025-08-15 fix timezone issue [17]
+2025-08-15 fix misconfiguration [18]
