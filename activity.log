@@ -7834,3 +7834,4 @@
 2025-08-16 fix misconfiguration [21]
 2025-08-17 small refactor [1]
 2025-08-17 update logging [2]
+2025-08-17 add integration tests [3]
