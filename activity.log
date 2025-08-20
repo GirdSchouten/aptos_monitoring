@@ -7953,3 +7953,4 @@
 2025-08-20 fix typo in docs [24]
 2025-08-20 cleanup dependencies [25]
 2025-08-20 reduce complexity [26]
+2025-08-20 fix encoding issue [27]
