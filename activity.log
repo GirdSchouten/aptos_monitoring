@@ -8146,3 +8146,4 @@
 2025-08-25 update headers [42]
 2025-08-25 fix encoding issue [43]
 2025-08-25 fix bug [44]
+2025-08-26 better error handling [1]
