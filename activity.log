@@ -8149,3 +8149,4 @@
 2025-08-26 better error handling [1]
 2025-08-26 upgrade dependencies [2]
 2025-08-26 update configs for prod [3]
+2025-08-26 fix CI errors [4]
