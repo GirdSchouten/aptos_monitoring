@@ -8201,3 +8201,4 @@
 2025-08-27 fix warnings [6]
 2025-08-27 update constants [7]
 2025-08-27 upgrade dependencies [8]
+2025-08-27 improve logging format [9]
