@@ -8218,3 +8218,4 @@
 2025-08-27 rollback changes [23]
 2025-08-27 update gitignore [24]
 2025-08-27 cleanup dependencies [25]
+2025-08-27 fix encoding issue [26]
