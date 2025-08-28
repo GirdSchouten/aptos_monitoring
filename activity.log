@@ -8247,3 +8247,4 @@
 2025-08-28 fix UI alignment [20]
 2025-08-28 add tests [21]
 2025-08-28 remove unused code [22]
+2025-08-28 add fallback [23]
