@@ -8394,3 +8394,4 @@
 2025-09-01 add helper function [22]
 2025-09-02 rollback changes [1]
 2025-09-02 improve logging format [2]
+2025-09-02 update configs for prod [3]
