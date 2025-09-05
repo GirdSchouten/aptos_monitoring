@@ -8521,3 +8521,4 @@
 2025-09-05 reformat code [24]
 2025-09-05 restructure modules [25]
 2025-09-05 add tests [26]
+2025-09-05 better error handling [27]
