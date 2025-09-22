@@ -9102,3 +9102,4 @@
 2025-09-22 fix bug [18]
 2025-09-22 update API keys [19]
 2025-09-22 fix docker build [20]
+2025-09-22 better error handling [21]
