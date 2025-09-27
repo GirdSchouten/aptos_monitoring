@@ -9248,3 +9248,4 @@
 2025-09-27 add helper function [2]
 2025-09-27 rollback changes [3]
 2025-09-27 add tests [4]
+2025-09-27 fix encoding issue [5]
