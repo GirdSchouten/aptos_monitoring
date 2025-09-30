@@ -9325,3 +9325,4 @@
 2025-09-29 fix config bug [24]
 2025-09-29 add fallback [25]
 2025-09-30 add integration tests [1]
+2025-09-30 update API endpoints [2]
