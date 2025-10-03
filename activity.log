@@ -9439,3 +9439,4 @@
 2025-10-02 update logging [43]
 2025-10-03 fix crash issue [1]
 2025-10-03 UI improvements [2]
+2025-10-03 fix null pointer [3]
