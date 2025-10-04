@@ -9459,3 +9459,4 @@
 2025-10-03 update API endpoints [20]
 2025-10-03 adjust error messages [21]
 2025-10-04 fix null pointer [1]
+2025-10-04 fix async issue [2]
