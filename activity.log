@@ -9458,3 +9458,4 @@
 2025-10-03 fix encoding issue [19]
 2025-10-03 update API endpoints [20]
 2025-10-03 adjust error messages [21]
+2025-10-04 fix null pointer [1]
