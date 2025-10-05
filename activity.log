@@ -9499,3 +9499,4 @@
 2025-10-05 upgrade dependencies [6]
 2025-10-05 add unit tests [7]
 2025-10-05 fix warnings [8]
+2025-10-05 fix async issue [9]
