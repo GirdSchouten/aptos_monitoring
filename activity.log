@@ -9605,3 +9605,4 @@
 2025-10-07 cleanup dependencies [12]
 2025-10-07 add sample data [13]
 2025-10-07 fix docker build [14]
+2025-10-07 adjust error messages [15]
