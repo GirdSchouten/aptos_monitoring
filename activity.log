@@ -10030,3 +10030,4 @@
 2025-10-18 add helper function [32]
 2025-10-18 update headers [33]
 2025-10-18 add integration tests [34]
+2025-10-18 improve caching [35]
