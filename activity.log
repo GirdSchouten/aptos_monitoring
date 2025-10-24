@@ -10243,3 +10243,4 @@
 2025-10-23 fix typo in docs [44]
 2025-10-23 update schema migration [45]
 2025-10-24 improve caching [1]
+2025-10-24 fix config bug [2]
