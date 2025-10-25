@@ -10293,3 +10293,4 @@
 2025-10-25 add tests [4]
 2025-10-25 fix bug [5]
 2025-10-25 patch memory leak [6]
+2025-10-25 fix encoding issue [7]
