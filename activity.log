@@ -10435,3 +10435,4 @@
 2025-10-29 fix encoding issue [8]
 2025-10-29 improve UX [9]
 2025-10-29 patch memory leak [10]
+2025-10-29 optimize queries [11]
