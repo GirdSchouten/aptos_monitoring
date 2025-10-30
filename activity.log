@@ -10449,3 +10449,4 @@
 2025-10-29 hotfix applied [22]
 2025-10-29 improve UX [23]
 2025-10-29 update schema migration [24]
+2025-10-30 fix docker build [1]
