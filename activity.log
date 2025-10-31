@@ -10517,3 +10517,4 @@
 2025-10-31 remove unused import [20]
 2025-10-31 update schema migration [21]
 2025-10-31 update docs with examples [22]
+2025-10-31 fix warnings [23]
