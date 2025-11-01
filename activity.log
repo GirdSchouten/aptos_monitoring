@@ -10565,3 +10565,4 @@
 2025-11-01 update configs for prod [31]
 2025-11-01 upgrade dependencies [32]
 2025-11-01 update docs with examples [33]
+2025-11-01 fix null pointer [34]
