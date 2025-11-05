@@ -10705,3 +10705,4 @@
 2025-11-05 simplify logic [4]
 2025-11-05 fix edge case [5]
 2025-11-05 update schema migration [6]
+2025-11-05 improve logging format [7]
