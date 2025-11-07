@@ -10764,3 +10764,4 @@
 2025-11-07 restructure modules [12]
 2025-11-07 remove debug output [13]
 2025-11-07 security patch [14]
+2025-11-07 better error handling [15]
