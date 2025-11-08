@@ -10804,3 +10804,4 @@
 2025-11-08 fix warnings [11]
 2025-11-08 improve logging format [12]
 2025-11-08 update schema migration [13]
+2025-11-08 add integration tests [14]
