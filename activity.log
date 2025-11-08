@@ -10802,3 +10802,4 @@
 2025-11-08 fix typo in code [9]
 2025-11-08 fix bug [10]
 2025-11-08 fix warnings [11]
+2025-11-08 improve logging format [12]
