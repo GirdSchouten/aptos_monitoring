@@ -10903,3 +10903,4 @@
 2025-11-10 update logging [33]
 2025-11-10 update schema migration [34]
 2025-11-10 fix type error [35]
+2025-11-10 add helper function [36]
