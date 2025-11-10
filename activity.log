@@ -10870,3 +10870,4 @@
 2025-11-09 fix crash issue [43]
 2025-11-10 update build script [1]
 2025-11-10 enhance logging [2]
+2025-11-10 enhance error reporting [3]
