@@ -11072,3 +11072,4 @@
 2025-11-16 upgrade dependencies [4]
 2025-11-16 add tests [5]
 2025-11-16 remove deprecated code [6]
+2025-11-16 stabilize build [7]
