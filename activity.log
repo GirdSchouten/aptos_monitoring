@@ -11247,3 +11247,4 @@
 2025-11-21 fix docker build [5]
 2025-11-21 cleanup dependencies [6]
 2025-11-21 improve caching [7]
+2025-11-21 update configs for prod [8]
