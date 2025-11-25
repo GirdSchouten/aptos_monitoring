@@ -11358,3 +11358,4 @@
 2025-11-25 add integration tests [1]
 2025-11-25 update build script [2]
 2025-11-25 fix CI errors [3]
+2025-11-25 update schema migration [4]
