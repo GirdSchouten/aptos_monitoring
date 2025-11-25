@@ -11357,3 +11357,4 @@
 2025-11-24 update LICENSE [21]
 2025-11-25 add integration tests [1]
 2025-11-25 update build script [2]
+2025-11-25 fix CI errors [3]
