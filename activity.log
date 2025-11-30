@@ -11560,3 +11560,4 @@
 2025-11-30 fix compatibility [21]
 2025-11-30 fix typo in docs [22]
 2025-11-30 update API endpoints [23]
+2025-11-30 better error handling [24]
