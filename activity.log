@@ -11608,3 +11608,4 @@
 2025-12-01 upgrade dependencies [33]
 2025-12-01 improve logging format [34]
 2025-12-01 add unit tests [35]
+2025-12-01 update schema migration [36]
