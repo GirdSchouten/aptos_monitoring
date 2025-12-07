@@ -11825,3 +11825,4 @@
 2025-12-07 fix misconfiguration [18]
 2025-12-07 fix crash issue [19]
 2025-12-07 rollback changes [20]
+2025-12-07 update schema migration [21]
