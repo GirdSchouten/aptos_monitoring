@@ -11819,3 +11819,4 @@
 2025-12-07 upgrade dependencies [12]
 2025-12-07 reorganize files [13]
 2025-12-07 add unit tests [14]
+2025-12-07 fix CI errors [15]
