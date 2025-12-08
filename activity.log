@@ -11874,3 +11874,4 @@
 2025-12-08 remove legacy code [46]
 2025-12-08 update schema migration [47]
 2025-12-08 add logging [48]
+2025-12-08 fix async issue [49]
