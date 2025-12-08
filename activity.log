@@ -11871,3 +11871,4 @@
 2025-12-08 patch memory leak [43]
 2025-12-08 better error handling [44]
 2025-12-08 reformat code [45]
+2025-12-08 remove legacy code [46]
