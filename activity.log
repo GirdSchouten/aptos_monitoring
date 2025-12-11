@@ -11938,3 +11938,4 @@
 2025-12-10 add helper function [36]
 2025-12-11 fix misconfiguration [1]
 2025-12-11 enhance error reporting [2]
+2025-12-11 improve caching [3]
