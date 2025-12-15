@@ -12098,3 +12098,4 @@
 2025-12-15 adjust timeout [33]
 2025-12-15 cleanup dependencies [34]
 2025-12-15 fix docker build [35]
+2025-12-15 update configs for prod [36]
