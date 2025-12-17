@@ -12149,3 +12149,4 @@
 2025-12-17 restructure modules [12]
 2025-12-17 improve caching [13]
 2025-12-17 remove test code [14]
+2025-12-17 better error handling [15]
