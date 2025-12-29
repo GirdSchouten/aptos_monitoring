@@ -12602,3 +12602,4 @@
 2025-12-29 fix async issue [3]
 2025-12-29 update gitignore [4]
 2025-12-29 improve performance [5]
+2025-12-29 fix null pointer [6]
